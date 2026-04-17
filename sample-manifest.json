@@ -1,0 +1,12 @@
+{
+  "export_job_id": "deffd5ea-54b8-4e57-b98b-443a2bd322d9",
+  "id_short": 410551,
+  "published_at": "2026-04-17T19:27:22Z",
+  "repo_name": "all-restaurants-in-kansas-city-missouri-us-sample-410551",
+  "sample_asset_name": "beamstation_410551_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/410551/beamstation_410551_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 144,
+  "sample_sha256": "697aae71896c1a74c9faf576f7dec9096b5c2e818ae07755ce7bd9819ef78086",
+  "sample_size_bytes": 532971,
+  "total_records": 1449
+}
